@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-kstore-demo/static/css/main.eefa19b7.chunk.css",
-    "main.js": "/my-kstore-demo/static/js/main.2e585640.chunk.js",
-    "main.js.map": "/my-kstore-demo/static/js/main.2e585640.chunk.js.map",
-    "runtime-main.js": "/my-kstore-demo/static/js/runtime-main.f3cc0efb.js",
-    "runtime-main.js.map": "/my-kstore-demo/static/js/runtime-main.f3cc0efb.js.map",
-    "static/js/2.3b197421.chunk.js": "/my-kstore-demo/static/js/2.3b197421.chunk.js",
-    "static/js/2.3b197421.chunk.js.map": "/my-kstore-demo/static/js/2.3b197421.chunk.js.map",
-    "index.html": "/my-kstore-demo/index.html",
-    "static/css/main.eefa19b7.chunk.css.map": "/my-kstore-demo/static/css/main.eefa19b7.chunk.css.map",
-    "static/js/2.3b197421.chunk.js.LICENSE.txt": "/my-kstore-demo/static/js/2.3b197421.chunk.js.LICENSE.txt",
-    "static/media/news.8b63e21c.jpg": "/my-kstore-demo/static/media/news.8b63e21c.jpg",
-    "static/media/news1.ef567b43.jpg": "/my-kstore-demo/static/media/news1.ef567b43.jpg",
-    "static/media/news2.413c4cf8.jpg": "/my-kstore-demo/static/media/news2.413c4cf8.jpg",
-    "static/media/news3.aa8d5e65.jpg": "/my-kstore-demo/static/media/news3.aa8d5e65.jpg",
-    "static/media/news4.87bbcbdb.jpg": "/my-kstore-demo/static/media/news4.87bbcbdb.jpg"
+    "main.css": "/react-my-kstore/static/css/main.eefa19b7.chunk.css",
+    "main.js": "/react-my-kstore/static/js/main.0dfd8c8e.chunk.js",
+    "main.js.map": "/react-my-kstore/static/js/main.0dfd8c8e.chunk.js.map",
+    "runtime-main.js": "/react-my-kstore/static/js/runtime-main.0c6ed8a0.js",
+    "runtime-main.js.map": "/react-my-kstore/static/js/runtime-main.0c6ed8a0.js.map",
+    "static/js/2.3b197421.chunk.js": "/react-my-kstore/static/js/2.3b197421.chunk.js",
+    "static/js/2.3b197421.chunk.js.map": "/react-my-kstore/static/js/2.3b197421.chunk.js.map",
+    "index.html": "/react-my-kstore/index.html",
+    "static/css/main.eefa19b7.chunk.css.map": "/react-my-kstore/static/css/main.eefa19b7.chunk.css.map",
+    "static/js/2.3b197421.chunk.js.LICENSE.txt": "/react-my-kstore/static/js/2.3b197421.chunk.js.LICENSE.txt",
+    "static/media/news.8b63e21c.jpg": "/react-my-kstore/static/media/news.8b63e21c.jpg",
+    "static/media/news1.ef567b43.jpg": "/react-my-kstore/static/media/news1.ef567b43.jpg",
+    "static/media/news2.413c4cf8.jpg": "/react-my-kstore/static/media/news2.413c4cf8.jpg",
+    "static/media/news3.aa8d5e65.jpg": "/react-my-kstore/static/media/news3.aa8d5e65.jpg",
+    "static/media/news4.87bbcbdb.jpg": "/react-my-kstore/static/media/news4.87bbcbdb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3cc0efb.js",
+    "static/js/runtime-main.0c6ed8a0.js",
     "static/js/2.3b197421.chunk.js",
     "static/css/main.eefa19b7.chunk.css",
-    "static/js/main.2e585640.chunk.js"
+    "static/js/main.0dfd8c8e.chunk.js"
   ]
 }
